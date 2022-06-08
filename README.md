@@ -32,6 +32,6 @@ An excel spreadsheet containing a weighted distance table. (WGUPS_DistanceTable.
 An excel spreadsheet containing all package data for one day. (WGUPS_Packages.xlsx)
 ![image](https://user-images.githubusercontent.com/39090435/172508460-76042294-f086-40ea-bda5-3e8430df59b3.png)
 
-# Route Optimization Program Running and Generated Visualization
+# Route Optimization Program and Generated Visualization
 <img width="1833" alt="WGUPS Delivery Router 1" src="https://user-images.githubusercontent.com/39090435/172508593-aebeff0c-e55f-495e-90d6-9434907e8b9a.PNG">
 
