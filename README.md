@@ -1,5 +1,7 @@
 # GeneticAlgorithmRouteDelivery
-Data Structures and Algorithms II - C950 
+Data Structures and Algorithms II - C950 - PRFA — NHP2
+
+
 
 # Scenario
 * The WGUPS needs to determine an efficient route and delivery distribution solution for their daily local deliveries. 
