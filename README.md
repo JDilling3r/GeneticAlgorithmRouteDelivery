@@ -1,7 +1,5 @@
 # GeneticAlgorithmRouteDelivery
-Data Structures and Algorithms II - C950 - PRFA — NHP2
-
-
+Data Structures and Algorithms II - C950 - PRFA - NHP2
 
 # Scenario
 * The WGUPS needs to determine an efficient route and delivery distribution solution for their daily local deliveries. 
@@ -26,7 +24,7 @@ Data Structures and Algorithms II - C950 - PRFA — NHP2
 While other algorithms may have a faster time-space complexity, I feel the genetic algorithm is an 'outside of the box' approach to this Multi Travelling Salesman problem. I chose it due to its elusiveness and for the stochastic behavior it employs (rather than pure deterministic optimization). There is an added ability to escape locally optimal solutions. Although I am not *new* to Python, I am not an expert and this implementation has much room for improvement. 
 
 # What is the Genetic Algorithm
-The genetic algorithm is a heuristic approach to a solving algorithm. It borrows characteristics from Charles Darwin's theory of natural evolution. The genetic algorithm yields the best 'individual' from the last 'population' where multiple generations, each containing a population, produce offspring that populate the next. There are crossover functions, mutation functions, and natural selection functions that aid in emulating evolution. 
+The genetic algorithm is a heuristic solving algorithm. It borrows characteristics from Charles Darwin's theory of natural evolution. The genetic algorithm yields the best 'individual' from the last 'population' where multiple generations, each containing a population, produce offspring that populate the next. There are crossover functions, mutation functions, and natural selection functions that aid in emulating evolution. 
 
 # What is provided by Western Governors University
 An excel spreadsheet containing a weighted distance table. (WGUPS_DistanceTable.xlsx)
