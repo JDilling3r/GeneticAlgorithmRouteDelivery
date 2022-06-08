@@ -21,7 +21,7 @@ Data Structures and Algorithms II - C950 - PRFA - NHP2
 * The day ends when all 40 packages have been delivered.
 
 # Why I chose the Genetic Algorithm
-While other algorithms may have a more efficient worst case time-space complexity, I feel the genetic algorithm is an 'outside of the box' approach to this Multi Travelling Salesman problem. I chose it due to its elusiveness and for the stochastic behavior it employs (rather than pure deterministic optimization). There is an added ability to escape locally optimal solutions. Although I am not *new* to Python, I am not an expert and this implementation has much room for improvement. 
+While other algorithms may have a more efficient worst case time-space complexity, I feel the genetic algorithm is an 'outside of the box' approach to this Multi Travelling Salesman problem. I chose it due to its elusiveness and for the stochastic behavior it employs (rather than pure deterministic optimization). There is an added ability to escape locally optimal solutions. 
 
 # What is the Genetic Algorithm
 The genetic algorithm is a heuristic solving algorithm. It borrows characteristics from Charles Darwin's theory of natural evolution. The genetic algorithm yields the best 'individual' from the last 'population' where multiple generations, each containing a population, produce offspring that populate the next. There are crossover functions, mutation functions, and natural selection functions that aid in emulating evolution. 
