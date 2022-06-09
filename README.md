@@ -1,4 +1,4 @@
-# GeneticAlgorithmRouteDelivery with Python
+# Genetic Algorithm with Python: TSP
 Data Structures and Algorithms II - C950 - PRFA - NHP2
 
 # Scenario
